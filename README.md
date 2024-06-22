@@ -12,7 +12,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-luis-dos-santos-0767a942/)
 
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22ntt773v6po5emkzd2jw6nna&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22ntt773v6po5emkzd2jw6nna&redirect=true)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22ntt773v6po5emkzd2jw6nna&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22ntt773v6po5emkzd2jw6nna&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="300" />
+  </a>
+</div>
